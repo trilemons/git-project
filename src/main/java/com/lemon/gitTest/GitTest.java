@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master test!!");
         System.out.println("side test!!");
         System.out.println("hhhhhh");
+        System.out.println("clone Test");
     }
 }
